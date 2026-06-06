@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-slate-50 text-slate-900;
+}
+
+.input {
+    @apply w-full rounded-2xl border border-slate-200 bg-white px-4 py-3 outline-none focus:border-rose-400 focus:ring-4 focus:ring-rose-100;
+}
+
+.btn-primary {
+    @apply rounded-2xl bg-slate-950 px-5 py-3 font-semibold text-white hover:bg-slate-800;
+}
+
+.btn-danger {
+    @apply rounded-2xl bg-red-600 px-5 py-3 font-bold text-white shadow-lg shadow-red-200 hover:bg-red-700;
+}
+
+.card {
+    @apply rounded-3xl border border-slate-100 bg-white shadow-soft;
+}

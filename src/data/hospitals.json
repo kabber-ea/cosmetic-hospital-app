@@ -1,0 +1,38 @@
+[
+  {
+    "id": "shanghai-aesthetic-institute",
+    "country": "China",
+    "city": "Shanghai",
+    "name": {"en":"Shanghai Aesthetic Institute","zh":"上海美学研究院","ko":"상하이 미학 연구소","ja":"上海美容研究所"},
+    "summary": {"en":"Modern cosmetic hospital focused on facial contouring and skin rejuvenation.","zh":"专注面部轮廓和皮肤年轻化的现代美容医院。","ko":"안면 윤곽과 피부 재생에 중점을 둔 현대 미용 병원입니다.","ja":"輪郭形成と肌の若返りに注力する現代的な美容病院です。"},
+    "image":"https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=1200&q=80",
+    "procedures":[
+      {"id":"rhinoplasty","name":{"en":"Rhinoplasty","zh":"鼻整形","ko":"코성형","ja":"鼻形成"},"duration":"2-3 hours","price":"$4,000 - $8,000","details":{"en":"Nose reshaping consultation, imaging, surgery planning and recovery guidance.","zh":"鼻部重塑咨询、影像评估、手术规划和恢复指导。","ko":"코 모양 상담, 이미지 평가, 수술 계획 및 회복 안내입니다.","ja":"鼻の形状相談、画像評価、手術計画、回復サポートです。"},"legal":{"en":"Clinic must be licensed by local health authorities. Confirm surgeon registration, consent forms, anesthesia safety and medical-advertising compliance.","zh":"机构必须获得当地卫生部门许可。请确认医生资质、同意书、麻醉安全和医疗广告合规。","ko":"병원은 현지 보건 당국의 허가를 받아야 합니다. 의사 등록, 동의서, 마취 안전, 의료 광고 규정을 확인하세요.","ja":"施設は地域の保健当局の認可が必要です。医師登録、同意書、麻酔安全、医療広告規制を確認してください。"},"doctors":["Dr. Li Wen","Dr. Zhao Min"]},
+      {"id":"laser-skin","name":{"en":"Laser Skin Rejuvenation","zh":"激光嫩肤","ko":"레이저 피부 재생","ja":"レーザー肌再生"},"duration":"45-90 mins","price":"$300 - $1,200","details":{"en":"Non-surgical laser treatment for pigmentation, texture and fine lines.","zh":"针对色素、肤质和细纹的非手术激光治疗。","ko":"색소, 피부결, 잔주름 개선을 위한 비수술 레이저 치료입니다.","ja":"色素沈着、肌質、小じわのための非外科レーザー治療です。"},"legal":{"en":"Laser devices should be approved for clinical use and operated by trained medical staff under local rules.","zh":"激光设备应获临床使用批准，并由受训医务人员按当地规定操作。","ko":"레이저 장비는 임상 사용 승인을 받고 훈련된 의료진이 현지 규정에 따라 사용해야 합니다.","ja":"レーザー機器は臨床使用承認を受け、訓練された医療スタッフが地域規則に従って操作する必要があります。"},"doctors":["Dr. Chen Rui","Dr. Lin Xia"]}
+    ]
+  },
+  {
+    "id": "tokyo-beauty-medical-center",
+    "country": "Japan",
+    "city": "Tokyo",
+    "name": {"en":"Tokyo Beauty Medical Center","zh":"东京美容医疗中心","ko":"도쿄 뷰티 메디컬 센터","ja":"東京美容医療センター"},
+    "summary": {"en":"Patient-friendly clinic offering eyelid surgery, injectables and dermatology.","zh":"提供眼睑手术、注射和皮肤科服务的友好型诊所。","ko":"쌍꺼풀 수술, 주사 시술, 피부과 서비스를 제공하는 환자 친화 병원입니다.","ja":"まぶた手術、注入治療、皮膚科を提供する患者重視のクリニックです。"},
+    "image":"https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&w=1200&q=80",
+    "procedures":[
+      {"id":"eyelid-surgery","name":{"en":"Eyelid Surgery","zh":"眼睑手术","ko":"눈꺼풀 수술","ja":"まぶた手術"},"duration":"1-2 hours","price":"$2,000 - $5,000","details":{"en":"Upper or double eyelid procedure with pre-operative assessment and follow-up.","zh":"上眼睑或双眼皮手术，包含术前评估和随访。","ko":"상안검 또는 쌍꺼풀 수술로 수술 전 평가와 추적 관리를 포함합니다.","ja":"上まぶたまたは二重まぶた手術で、術前評価とフォローアップを含みます。"},"legal":{"en":"Japan requires medical procedures to be performed by licensed physicians. Confirm clinic registration and written risk disclosure.","zh":"日本要求医疗程序由持证医生执行。请确认诊所注册和书面风险说明。","ko":"일본에서는 의료 시술을 면허 의사가 수행해야 합니다. 병원 등록과 서면 위험 고지를 확인하세요.","ja":"日本では医療行為は医師免許を持つ医師が行う必要があります。施設登録と書面でのリスク説明を確認してください。"},"doctors":["Dr. Haruka Sato","Dr. Kenji Mori"]},
+      {"id":"botox-fillers","name":{"en":"Botox & Fillers","zh":"肉毒素和填充剂","ko":"보톡스 및 필러","ja":"ボトックス・フィラー"},"duration":"30-60 mins","price":"$250 - $1,000","details":{"en":"Injectable treatments for wrinkles, volume restoration and facial balancing.","zh":"用于皱纹、容量恢复和面部平衡的注射治疗。","ko":"주름, 볼륨 회복, 얼굴 균형 개선을 위한 주사 시술입니다.","ja":"しわ、ボリューム回復、顔のバランス改善のための注入治療です。"},"legal":{"en":"Injectables should be genuine, traceable and administered by properly licensed medical professionals.","zh":"注射产品应为正品、可追溯，并由合格医务人员操作。","ko":"주사제는 정품이고 추적 가능해야 하며 적법한 의료 전문가가 시행해야 합니다.","ja":"注入剤は正規品で追跡可能であり、適切な医療資格者が施術する必要があります。"},"doctors":["Dr. Aiko Tanaka","Dr. Yuto Imai"]}
+    ]
+  },
+  {
+    "id": "seoul-plastic-surgery-hospital",
+    "country": "Korea",
+    "city": "Seoul",
+    "name": {"en":"Seoul Plastic Surgery Hospital","zh":"首尔整形医院","ko":"서울 성형외과 병원","ja":"ソウル美容外科病院"},
+    "summary": {"en":"Specialist hospital for jawline, breast and facial cosmetic surgery.","zh":"专注下颌线、胸部和面部整形的专科医院。","ko":"턱선, 가슴, 안면 미용수술 전문 병원입니다.","ja":"フェイスライン、豊胸、顔面美容手術の専門病院です。"},
+    "image":"https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?auto=format&fit=crop&w=1200&q=80",
+    "procedures":[
+      {"id":"facial-contouring","name":{"en":"Facial Contouring","zh":"面部轮廓","ko":"안면 윤곽","ja":"輪郭形成"},"duration":"3-5 hours","price":"$8,000 - $18,000","details":{"en":"Jawline, cheekbone or chin contouring with 3D planning and recovery support.","zh":"下颌、颧骨或下巴轮廓调整，含3D规划和恢复支持。","ko":"턱선, 광대, 턱끝 윤곽 수술로 3D 계획과 회복 지원을 포함합니다.","ja":"顎、頬骨、あごの輪郭形成で、3D計画と回復サポートを含みます。"},"legal":{"en":"Korean clinics must comply with medical institution rules, surgical consent, specialist disclosure and patient safety standards.","zh":"韩国诊所必须遵守医疗机构规则、手术同意、专科医生披露和患者安全标准。","ko":"한국 병원은 의료기관 규정, 수술 동의, 전문의 고지, 환자 안전 기준을 준수해야 합니다.","ja":"韓国の施設は医療機関規則、手術同意、専門医開示、患者安全基準を守る必要があります。"},"doctors":["Dr. Kim Min-jun","Dr. Park Seo-yeon"]},
+      {"id":"breast-augmentation","name":{"en":"Breast Augmentation","zh":"隆胸","ko":"가슴 확대","ja":"豊胸"},"duration":"2-4 hours","price":"$6,000 - $12,000","details":{"en":"Implant or fat-transfer breast enhancement with sizing consultation.","zh":"假体或脂肪移植隆胸，含尺寸咨询。","ko":"보형물 또는 지방이식을 통한 가슴 확대와 사이즈 상담을 포함합니다.","ja":"インプラントまたは脂肪注入による豊胸とサイズ相談を含みます。"},"legal":{"en":"Implants and surgical materials should meet approved medical-device standards and be recorded for patient traceability.","zh":"假体和手术材料应符合批准的医疗器械标准，并记录以便追踪。","ko":"보형물과 수술 재료는 승인된 의료기기 기준을 충족하고 환자 추적을 위해 기록되어야 합니다.","ja":"インプラントと手術材料は承認医療機器基準を満たし、患者追跡のため記録される必要があります。"},"doctors":["Dr. Choi Ji-ho","Dr. Lee Hae-won"]}
+    ]
+  }
+]
